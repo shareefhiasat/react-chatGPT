@@ -24,7 +24,6 @@ function ModelSelection() {
           control: (state) => "bg-[#434654] border-[#434654]",
           input: (state) => "text-white",
           menu: (state) => "bg-[#434654] border-[#434654]",
-          option: (state) => "bg-[#434654] border-[#434654]",
         }}
         options={models?.modelOptions}
         placeholder={model}
