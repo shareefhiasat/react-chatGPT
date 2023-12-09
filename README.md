@@ -1,3 +1,24 @@
+# Thanks to [Youtube channel Sonny](https://www.youtube.com/@SonnySangha)
+Sonny best react tutor i found till now
+
+
+Implementation reference is
+[Build ChatGPT with nextjs13](https://www.youtube.com/watch?v=1KPG3LiE4jU&t=7211s)
+
+## Used libraries
+* react select
+* react hook firebase
+* firebase firestore
+* firebase admin
+* tailwind
+* swr
+
+## Applied concepts
+* swr
+* layout page route
+* type script types definition
+* tailwind
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
